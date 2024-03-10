@@ -1,6 +1,6 @@
 # CC-US-Medical-Insurance-Analysis
 
-This project will review a sample of 1300 anonymous client files.  The data includes:
+This project will review a sample of 1300 anonymous client files.  All data is provided by CodeCademy and the project falls within their Python curriculum.  The data includes:
  - Client Gender
  - Client Age
  - Client BMI (Body Mass Index)
