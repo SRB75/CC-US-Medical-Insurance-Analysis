@@ -9,6 +9,8 @@ This project will review a sample of 1300 anonymous client files.  All data is p
  - Region of the US where the client resides
  - Client Total Insurance Costs
 
+**All Analysis will be done with Jupyter Notebooks**
+
 ## Topics Covered in this Project
  - Descriptive Statistics for Continuous and Categorical Variables
  - Data type Conversions
